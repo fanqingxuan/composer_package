@@ -1,0 +1,5 @@
+{
+    "require": {
+        "illuminate/macroable": "^8.83"
+    }
+}
